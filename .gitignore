@@ -1,0 +1,20 @@
+# Secrets — never commit this
+.env
+
+# Daily digests (personal search results, not for git)
+digests/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+
+# Node (unused by the agent; keep installed packages out of git)
+node_modules/
+
+# macOS
+.DS_Store

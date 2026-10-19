@@ -1,0 +1,8 @@
+# Housing scout criteria — edit these whenever you like
+city: "Berkeley, CA"
+max_rent: 1500          # US dollars PER ROOM (per person), not the whole unit
+bedrooms: "2 to 3"
+neighborhoods:
+  - "Southside"
+  - "Downtown"
+  - "North Berkeley"
